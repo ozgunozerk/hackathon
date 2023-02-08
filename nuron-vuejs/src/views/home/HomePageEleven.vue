@@ -1,92 +1,110 @@
 <template>
-    <layout :show-footer-brand="true">
-        <!-- Start Banner Area -->
-        <div class="slider-area">
-            <div class="container-fluid padding-contorler-am-slide-11">
-                <div class="row d-flex align-items-center">
-                    <div class="col-lg-12 col-xl-6 order-2 order-xl-1 home-11-slide-padding">
-                        <h2 class="title"
-                            data-sal-delay="200"
-                            data-sal="slide-up"
-                            data-sal-duration="800">
-                            Discover Digital Art, Collect <br> and Sell Your Specific <br>
-                            <span class="gradient-title">NFTs.</span>
-                        </h2>
-                        <p class="slide-disc"
-                           data-sal-delay="300"
-                           data-sal="slide-up"
-                           data-sal-duration="800">
-                            a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that
-                            can be sold and traded. Types of NFT data units.
-                        </p>
-                        <div class="button-group">
-                            <router-link
-                                class="btn btn-large btn-primary"
-                                to="#"
-                                data-sal-delay="400"
-                                data-sal="slide-up"
-                                data-sal-duration="800">
-                                Get Started
-                            </router-link>
-                            <router-link
-                                class="btn btn-large btn-primary-alta"
-                                to="/create"
-                                data-sal-delay="500"
-                                data-sal="slide-up"
-                                data-sal-duration="800">
-                                Create
-                            </router-link>
-                        </div>
-                        <div class="odometer-area-slide">
-                            <div class="single-odometer"
-                                 data-sal-delay="400"
-                                 data-sal="slide-left"
-                                 data-sal-duration="800">
-                                <h3 class="counter">
-                                    <span class="odometer">
-                                        <count-up :startVal="0" :endVal="3091" :duration="5"/>
-                                    </span>
-                                    <span class="counter-label">Collectibles</span>
-                                </h3>
-                            </div>
-                            <div class="single-odometer"
-                                 data-sal-delay="600"
-                                 data-sal="slide-left"
-                                 data-sal-duration="800">
-                                <h3 class="counter">
-                                    <span class="odometer">
-                                        <count-up :startVal="0" :endVal="1020" :duration="5"/>
-                                    </span>
-                                    <span class="counter-label">Auctions</span>
-                                </h3>
-                            </div>
-                            <div class="single-odometer"
-                                 data-sal-delay="800"
-                                 data-sal="slide-left"
-                                 data-sal-duration="800">
-                                <h3 class="counter">
-                                    <span class="odometer">
-                                        <count-up :startVal="0" :endVal="5329" :duration="5"/>
-                                    </span>
-                                    <span class="counter-label">NFT Artist</span>
-                                </h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 col-xl-6 order-1 order-xl-2">
-                        <div class="banner-right-feature-product"
-                             data-sal-delay="300"
-                             data-sal="slide-left"
-                             data-sal-duration="800">
-                            <!-- start single product -->
-                            <div class="single-slide-product"
-                                 data-sal-delay="700"
-                                 data-sal="slide-left"
-                                 data-sal-duration="800">
-                                <product-card
-                                    :product-date="bannerProductItem"
-                                />
-                                <!--                            <div class="product-style-one tilt">
+  <layout :show-footer-brand="true">
+    <!-- Start Banner Area -->
+    <div class="slider-area">
+      <div class="container-fluid padding-contorler-am-slide-11">
+        <div class="row d-flex align-items-center">
+          <div
+            class="col-lg-12 col-xl-6 order-2 order-xl-1 home-11-slide-padding"
+          >
+            <h2
+              class="title"
+              data-sal-delay="200"
+              data-sal="slide-up"
+              data-sal-duration="800"
+            >
+              Collectible items <br />
+              for your favorite game as <br />
+              <span class="gradient-title">NFTs.</span>
+            </h2>
+            <p
+              class="slide-disc"
+              data-sal-delay="300"
+              data-sal="slide-up"
+              data-sal-duration="800"
+            >
+              a non-interchangeable unit of data stored on a blockchain, a form
+              of digital ledger, that can be sold and traded. Types of NFT data
+              units.
+            </p>
+            <div class="button-group">
+              <router-link
+                class="btn btn-large btn-primary"
+                to="#"
+                data-sal-delay="400"
+                data-sal="slide-up"
+                data-sal-duration="800"
+              >
+                Get Started
+              </router-link>
+              <router-link
+                class="btn btn-large btn-primary-alta"
+                to="/create"
+                data-sal-delay="500"
+                data-sal="slide-up"
+                data-sal-duration="800"
+              >
+                Sell
+              </router-link>
+            </div>
+            <div class="odometer-area-slide">
+              <div
+                class="single-odometer"
+                data-sal-delay="400"
+                data-sal="slide-left"
+                data-sal-duration="800"
+              >
+                <h3 class="counter">
+                  <span class="odometer">
+                    <count-up :startVal="0" :endVal="3091" :duration="5" />
+                  </span>
+                  <span class="counter-label">Collectibles</span>
+                </h3>
+              </div>
+              <div
+                class="single-odometer"
+                data-sal-delay="600"
+                data-sal="slide-left"
+                data-sal-duration="800"
+              >
+                <h3 class="counter">
+                  <span class="odometer">
+                    <count-up :startVal="0" :endVal="1020" :duration="5" />
+                  </span>
+                  <span class="counter-label">Auctions</span>
+                </h3>
+              </div>
+              <div
+                class="single-odometer"
+                data-sal-delay="800"
+                data-sal="slide-left"
+                data-sal-duration="800"
+              >
+                <h3 class="counter">
+                  <span class="odometer">
+                    <count-up :startVal="0" :endVal="5329" :duration="5" />
+                  </span>
+                  <span class="counter-label">Players</span>
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-12 col-xl-6 order-1 order-xl-2">
+            <div
+              class="banner-right-feature-product"
+              data-sal-delay="300"
+              data-sal="slide-left"
+              data-sal-duration="800"
+            >
+              <!-- start single product -->
+              <div
+                class="single-slide-product"
+                data-sal-delay="700"
+                data-sal="slide-left"
+                data-sal-duration="800"
+              >
+                <product-card :product-date="bannerProductItem" />
+                <!--                            <div class="product-style-one tilt">
                                                                 <div class="card-thumbnail">
                                                                     <a href="product-details.html">
                                                                         <img src="assets/images/portfolio/portfolio-07.jpg"
@@ -162,133 +180,116 @@
                                                                     </div>
                                                                 </div>
                                                             </div>-->
-                            </div>
-                            <!-- end single product -->
-                            <div class="badge-inner" data-sal-delay="900" data-sal="slide-left"
-                                 data-sal-duration="1000">
-                                <img class="image-1" :src="require(`@/assets/images/banner/badge.png`)"
-                                     alt="banner_badge">
-                            </div>
-                        </div>
-                    </div>
-                </div>
+              </div>
+              <!-- end single product -->
+              <!-- <div
+                class="badge-inner"
+                data-sal-delay="900"
+                data-sal="slide-left"
+                data-sal-duration="1000"
+              >
+                <img
+                  class="image-1"
+                  :src="require(`@/assets/images/banner/badge.png`)"
+                  alt="banner_badge"
+                />
+              </div> -->
             </div>
+          </div>
         </div>
-        <!-- End Banner Area -->
+      </div>
+    </div>
+    <!-- End Banner Area -->
 
-        <!-- Start Category Area -->
-        <category-style-one/>
-        <!-- End Category Area -->
+    <!-- Newest Items Area Start -->
+    <explore-newest-item />
+    <!-- Newest Items Area End -->
 
-        <!-- Start Live Bidding Area -->
-        <explore-live-carousel/>
-        <!-- End Live Bidding Area -->
+    <!-- Explore Product Area Start -->
+    <ExploreFilterLeft />
+    <!-- Explore Product Area End -->
 
-        <!-- Start Service Area -->
-        <service-style-one/>
-        <!-- End Service Area -->
+    <!-- start subscribe area -->
+    <subscription-style-one />
+    <!-- end subscribe area -->
 
-        <!-- Newest Items Area Start -->
-        <explore-newest-item/>
-        <!-- Newest Items Area End -->
+    <share-modal />
 
-        <!-- Top Seller Start -->
-        <seller-style-one/>
-        <!-- Top Seller End -->
-
-        <!-- Explore Product Area Start -->
-        <ExploreFilterLeft/>
-        <!-- Explore Product Area End -->
-
-        <!-- Start Nuron Vedio Area -->
-        <video-style-one video-url="https://www.youtube.com/embed/7e90gBu4pas"/>
-        <!-- End Nuron Vedio Area -->
-
-        <!-- Collection Area Start -->
-        <collection-style-one/>
-        <!-- Collection Area End -->
-
-        <!-- start subscribe area -->
-        <subscription-style-one/>
-        <!-- end subscribe area -->
-
-        <share-modal/>
-
-        <report-modal/>
-    </layout>
+    <report-modal />
+  </layout>
 </template>
 
 <script>
-    import CountUp from 'vue-countup-v3'
-    import Layout from '../../components/layouts/Layout'
-    import ExploreLiveCarousel from '@/components/explore/ExploreLiveCarousel'
-    import ServiceCard from '@/components/service/ServiceCard'
-    import ProductCard from '@/components/product/ProductCard'
-    import SalScrollAnimationMixin from '@/mixins/SalScrollAnimationMixin'
-    import ShareModal from '@/components/modal/ShareModal'
-    import ReportModal from '@/components/modal/ReportModal'
-    import ExploreFilter from '@/components/explore/ExploreFilter'
-    import ServiceStyleOne from '@/components/service/ServiceStyleOne'
-    import SellerStyleOne from '@/components/seller/SellerStyleOne'
-    import CollectionStyleOne from '@/components/collection/CollectionStyleOne'
-    import ExploreNewestItem from '@/components/explore/ExploreNewestItem'
-    import CategoryStyleOne from '@/components/category/CategoryStyleOne'
-    import SubscriptionStyleOne from '@/components/subscription/SubscriptionStyleOne'
-    import VideoStyleOne from '@/components/video/VideoStyleOne'
-    import ExploreFilterLeft from '@/components/explore/ExploreFilterLeft'
+import CountUp from 'vue-countup-v3'
+import Layout from '../../components/layouts/Layout'
+import ExploreLiveCarousel from '@/components/explore/ExploreLiveCarousel'
+import ServiceCard from '@/components/service/ServiceCard'
+import ProductCard from '@/components/product/ProductCard'
+import SalScrollAnimationMixin from '@/mixins/SalScrollAnimationMixin'
+import ShareModal from '@/components/modal/ShareModal'
+import ReportModal from '@/components/modal/ReportModal'
+import ExploreFilter from '@/components/explore/ExploreFilter'
+import ServiceStyleOne from '@/components/service/ServiceStyleOne'
+import SellerStyleOne from '@/components/seller/SellerStyleOne'
+import CollectionStyleOne from '@/components/collection/CollectionStyleOne'
+import ExploreNewestItem from '@/components/explore/ExploreNewestItem'
+import CategoryStyleOne from '@/components/category/CategoryStyleOne'
+import SubscriptionStyleOne from '@/components/subscription/SubscriptionStyleOne'
+import VideoStyleOne from '@/components/video/VideoStyleOne'
+import ExploreFilterLeft from '@/components/explore/ExploreFilterLeft'
 
-    export default {
-        name: 'HomePageEleven',
-        components: {
-            ExploreFilterLeft,
-            CountUp,
-            VideoStyleOne,
-            SubscriptionStyleOne,
-            CategoryStyleOne,
-            ExploreNewestItem,
-            CollectionStyleOne,
-            SellerStyleOne,
-            ServiceStyleOne,
-            ExploreFilter,
-            ReportModal,
-            ShareModal,
-            ProductCard,
-            ServiceCard,
-            ExploreLiveCarousel,
-            Layout
+export default {
+  name: 'HomePageEleven',
+  components: {
+    ExploreFilterLeft,
+    CountUp,
+    VideoStyleOne,
+    SubscriptionStyleOne,
+    CategoryStyleOne,
+    ExploreNewestItem,
+    CollectionStyleOne,
+    SellerStyleOne,
+    ServiceStyleOne,
+    ExploreFilter,
+    ReportModal,
+    ShareModal,
+    ProductCard,
+    ServiceCard,
+    ExploreLiveCarousel,
+    Layout
+  },
+  mixins: [SalScrollAnimationMixin],
+  data() {
+    return {
+      bannerProductItem: {
+        productImage: require(`@/assets/images/portfolio/portfolio-07.jpg`),
+        countdown: {
+          date: '2023-11-09'
         },
-        mixins: [SalScrollAnimationMixin],
-        data() {
-            return {
-                bannerProductItem: {
-                    productImage: require(`@/assets/images/portfolio/portfolio-07.jpg`),
-                    countdown: {
-                        date: '2023-11-09'
-                    },
-                    authors: [
-                        {
-                            id: 2,
-                            name: 'Mark Jordan',
-                            image: require(`@/assets/images/client/client-2.png`)
-                        },
-                        {
-                            id: 3,
-                            name: 'Mark',
-                            image: require(`@/assets/images/client/client-3.png`)
-                        },
-                        {
-                            id: 5,
-                            name: 'Jordan',
-                            image: require(`@/assets/images/client/client-5.png`)
-                        }
-                    ],
-                    biddingAmount: '20',
-                    productName: 'Collect,Sell Your Specific NFT\'s',
-                    latestBid: 'Highest bid 1/20',
-                    lastBid: '0.244wETH',
-                    reacted: '322'
-                }
-            }
-        }
+        authors: [
+          {
+            id: 2,
+            name: 'Mark Jordan',
+            image: require(`@/assets/images/client/client-2.png`)
+          },
+          {
+            id: 3,
+            name: 'Mark',
+            image: require(`@/assets/images/client/client-3.png`)
+          },
+          {
+            id: 5,
+            name: 'Jordan',
+            image: require(`@/assets/images/client/client-5.png`)
+          }
+        ],
+        biddingAmount: '20',
+        productName: 'Collect,Sell Your Specific NFT\'s',
+        latestBid: 'Highest bid 1/20',
+        lastBid: '0.244wETH',
+        reacted: '322'
+      }
     }
+  }
+}
 </script>

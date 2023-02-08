@@ -6,9 +6,9 @@ export default {
                     id: 1,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -32,7 +32,7 @@ export default {
                     latestBid: 'Highest bid 1/20',
                     lastBid: '0.244wETH',
                     reacted: '322',
-                    categories: ['music', 'video'],
+                    categories: ['ethernity', 'demonics'],
                     collection: {
                         name: 'Art Decco',
                         slug: '/collection',
@@ -56,9 +56,9 @@ export default {
                     id: 2,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -82,7 +82,7 @@ export default {
                     latestBid: 'Highest bid 5/11',
                     lastBid: '0.244wETH',
                     reacted: '420',
-                    categories: ['art', 'video'],
+                    categories: ['ethernity', 'demonics'],
                     collection: {
                         name: 'Art Decco',
                         slug: '/collection',
@@ -106,9 +106,9 @@ export default {
                     id: 3,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-06.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-06.jpg`) }
                     ],
                     authors: [
                         {
@@ -132,7 +132,7 @@ export default {
                     latestBid: 'Highest bid 2/31',
                     lastBid: '0.218wETH',
                     reacted: '12',
-                    categories: ['music'],
+                    categories: ['demonics'],
                     collection: {
                         name: 'BoredApeYachtClub',
                         slug: '/collection',
@@ -156,9 +156,9 @@ export default {
                     id: 4,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-08.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-08.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`) }
                     ],
                     authors: [
                         {
@@ -182,7 +182,7 @@ export default {
                     latestBid: 'Highest bid 3/16',
                     lastBid: '0.265wETH',
                     reacted: '20',
-                    categories: ['video'],
+                    categories: ['karazhan'],
                     collection: {
                         name: 'MutantApeYachtClub',
                         slug: '/collection',
@@ -206,9 +206,9 @@ export default {
                     id: 5,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-10.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-10.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -232,7 +232,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.285wETH',
                     reacted: '205',
-                    categories: ['collectionable', 'art'],
+                    categories: ['karazhan', 'magicValleys'],
                     collection: {
                         name: 'Art Decco',
                         slug: '/collection',
@@ -256,9 +256,9 @@ export default {
                     id: 6,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-06.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-06.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-06.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -282,7 +282,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.334wETH',
                     reacted: '205',
-                    categories: ['music'],
+                    categories: ['demonics'],
                     collection: {
                         name: 'MutantApeYachtClub',
                         slug: '/collection',
@@ -306,9 +306,9 @@ export default {
                     id: 7,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-07.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/portfolio-07.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/portfolio-07.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-05.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -332,7 +332,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.453wETH',
                     reacted: '205',
-                    categories: ['art'],
+                    categories: ['wrangler'],
                     collection: {
                         name: 'Art Decco',
                         slug: '/collection',
@@ -356,9 +356,9 @@ export default {
                     id: 8,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-08.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-08.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-08.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -382,7 +382,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.892wETH',
                     reacted: '205',
-                    categories: ['collectionable', 'video'],
+                    categories: ['ethernity', 'demonics'],
                     collection: {
                         name: 'MutantApeYachtClub',
                         slug: '/collection',
@@ -406,9 +406,9 @@ export default {
                     id: 9,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-11.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-09.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-11.jpg`) }
                     ],
                     authors: [
                         {
@@ -432,7 +432,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.756wETH',
                     reacted: '205',
-                    categories: ['music', 'video'],
+                    categories: ['wrangler'],
                     collection: {
                         name: 'Art Blocks Factory',
                         slug: '/collection',
@@ -456,9 +456,9 @@ export default {
                     id: 10,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-10.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-10.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-10.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -482,7 +482,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.566wETH',
                     reacted: '205',
-                    categories: ['collectionable'],
+                    categories: ['karazhan'],
                     collection: {
                         name: 'Art Decco',
                         slug: '/collection',
@@ -506,9 +506,9 @@ export default {
                     id: 11,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-11.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-11.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-11.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-02.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-03.jpg`) }
                     ],
                     authors: [
                         {
@@ -532,7 +532,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.9wETH',
                     reacted: '205',
-                    categories: ['art'],
+                    categories: ['karazhan'],
                     collection: {
                         name: 'Art Blocks Factory',
                         slug: '/collection',
@@ -556,9 +556,9 @@ export default {
                     id: 12,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) }
                     ],
                     authors: [
                         {
@@ -582,7 +582,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.544wETH',
                     reacted: '205',
-                    categories: ['music', 'video'],
+                    categories: ['ethernity', 'demonics'],
                     collection: {
                         name: 'BoredApeYachtClub',
                         slug: '/collection',
@@ -606,9 +606,9 @@ export default {
                     id: 13,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) }
                     ],
                     authors: [
                         {
@@ -632,7 +632,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.544wETH',
                     reacted: '205',
-                    categories: ['music', 'video'],
+                    categories: ['wrangler'],
                     collection: {
                         name: 'BoredApeYachtClub',
                         slug: '/collection',
@@ -656,9 +656,9 @@ export default {
                     id: 14,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) }
                     ],
                     authors: [
                         {
@@ -682,7 +682,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.544wETH',
                     reacted: '205',
-                    categories: ['music', 'video'],
+                    categories: ['demonics', 'ethernity'],
                     collection: {
                         name: 'BoredApeYachtClub',
                         slug: '/collection',
@@ -706,9 +706,9 @@ export default {
                     id: 15,
                     productImage: require(`@/assets/images/portfolio/lg/portfolio-10.jpg`),
                     thumbnailImages: [
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`)},
-                        {src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`)}
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-12.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-04.jpg`) },
+                        { src: require(`@/assets/images/portfolio/lg/portfolio-01.jpg`) }
                     ],
                     authors: [
                         {
@@ -732,7 +732,7 @@ export default {
                     latestBid: 'Highest bid 6/50',
                     lastBid: '0.544wETH',
                     reacted: '205',
-                    categories: ['music', 'video'],
+                    categories: ['chainless'],
                     collection: {
                         name: 'BoredApeYachtClub',
                         slug: '/collection',

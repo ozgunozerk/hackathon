@@ -1,4 +1,4 @@
-import {createRouter, createWebHistory} from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import HomePageOne from '../views/home/HomePageOne'
 import HomePageTwo from '../views/home/HomePageTwo'
 import HomePageThree from '../views/home/HomePageThree'
@@ -60,7 +60,7 @@ const routes = [
     {
         path: '/',
         name: 'HomePageOne',
-        component: HomePageOne,
+        component: HomePageEleven,
         meta: {
             title: 'Nuron - NFT Marketplace Template',
         },
