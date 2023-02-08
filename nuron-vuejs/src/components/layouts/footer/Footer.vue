@@ -70,8 +70,8 @@
               <div class="footer-left">
                 <logo />
                 <p class="rn-footer-describe">
-                  Created with the collaboration of over 60 of the world's best
-                  Nuron Artists.
+                  Created by gamers for gamers to take advantage of
+                  buying/selling game collectibles as NFTs
                 </p>
               </div>
             </div>
@@ -82,25 +82,16 @@
               <h6 class="widget-title">Nuron</h6>
               <ul class="footer-list-one">
                 <li class="single-list">
-                  <router-link to="#">Protocol Explore</router-link>
+                  <router-link to="#">Top Games</router-link>
                 </li>
                 <li class="single-list">
-                  <router-link to="#">System Token</router-link>
+                  <router-link to="#">New Games</router-link>
                 </li>
                 <li class="single-list">
-                  <router-link to="#">Optimize Time</router-link>
+                  <router-link to="#">All Games</router-link>
                 </li>
                 <li class="single-list">
-                  <router-link to="#">Visual Checking</router-link>
-                </li>
-                <li class="single-list">
-                  <router-link to="#">Fadeup System</router-link>
-                </li>
-                <li class="single-list">
-                  <router-link to="#">Activity Log</router-link>
-                </li>
-                <li class="single-list">
-                  <router-link to="#">System Auto Since</router-link>
+                  <router-link to="#">Auctions</router-link>
                 </li>
               </ul>
             </div>
@@ -111,25 +102,16 @@
               <h6 class="widget-title">Information</h6>
               <ul class="footer-list-one">
                 <li class="single-list">
-                  <router-link to="#">Market Explore</router-link>
+                  <router-link to="#">Gamer's Explore</router-link>
                 </li>
                 <li class="single-list">
-                  <router-link to="#">Ready Token</router-link>
+                  <router-link to="#">GameLink Token</router-link>
                 </li>
                 <li class="single-list">
-                  <router-link to="#">Main Option</router-link>
+                  <router-link to="#">About Us</router-link>
                 </li>
                 <li class="single-list">
-                  <router-link to="#">Product Checking</router-link>
-                </li>
-                <li class="single-list">
-                  <router-link to="/blog">Blog Grid</router-link>
-                </li>
-                <li class="single-list">
-                  <router-link to="/about">About Us</router-link>
-                </li>
-                <li class="single-list">
-                  <router-link to="#">Fix Bug</router-link>
+                  <router-link to="#">FAQ</router-link>
                 </li>
               </ul>
             </div>
@@ -155,7 +137,7 @@
                       <router-link to="/product/1">#21 The Wonder</router-link>
                     </h6>
                     <p>Highest bid 1/20</p>
-                    <span class="price">0.244wETH</span>
+                    <span class="price">0.244SSC</span>
                   </div>
                 </li>
                 <li class="recent-post">
@@ -174,7 +156,7 @@
                       <router-link to="/product/2">Diamond Dog</router-link>
                     </h6>
                     <p>Highest bid 1/20</p>
-                    <span class="price">0.022wETH</span>
+                    <span class="price">0.022SSC</span>
                   </div>
                 </li>
                 <li class="recent-post">
@@ -193,7 +175,7 @@
                       <router-link to="/product/3">Morgan11</router-link>
                     </h6>
                     <p>Highest bid 1/20</p>
-                    <span class="price">0.892wETH</span>
+                    <span class="price">0.892SSC</span>
                   </div>
                 </li>
               </ul>
@@ -210,7 +192,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6 col-md-12 col-sm-12">
             <div class="copyright-left">
-              <span>©2022 Nuron, Inc. All rights reserved.</span>
+              <span>©2023 GameLink, Inc. All rights reserved.</span>
               <ul class="privacy">
                 <li>
                   <router-link to="/terms-condition">Terms</router-link>

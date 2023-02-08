@@ -4,11 +4,11 @@ export default {
             collectionList: [
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-01.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-01.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-01.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-02.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-03.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-01.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-02.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-03.png`) }
                     ],
                     client: require(`@/assets/images/client/client-15.png`),
                     title: 'Cubic Trad',
@@ -16,11 +16,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-02.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-02.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-04.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-05.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-06.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-04.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-05.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-06.png`) }
                     ],
                     client: require(`@/assets/images/client/client-12.png`),
                     title: 'Diamond Dog',
@@ -28,11 +28,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-03.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-03.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-07.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-08.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-09.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-07.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-08.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-09.png`) }
                     ],
                     client: require(`@/assets/images/client/client-13.png`),
                     title: 'Morgan11',
@@ -40,11 +40,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-05.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-05.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-10.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-11.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-12.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-10.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-11.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-12.png`) }
                     ],
                     client: require(`@/assets/images/client/client-14.png`),
                     title: 'Orthogon#720',
@@ -52,11 +52,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-02.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-02.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-01.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-02.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-03.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-01.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-02.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-03.png`) }
                     ],
                     client: require(`@/assets/images/client/client-15.png`),
                     title: 'Trad Mard',
@@ -64,11 +64,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-04.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-04.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-04.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-05.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-06.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-04.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-05.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-06.png`) }
                     ],
                     client: require(`@/assets/images/client/client-12.png`),
                     title: 'Dog Eligator',
@@ -76,11 +76,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-05.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-05.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-07.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-08.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-09.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-07.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-08.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-09.png`) }
                     ],
                     client: require(`@/assets/images/client/client-13.png`),
                     title: 'Monas ten',
@@ -88,11 +88,11 @@ export default {
                 },
                 {
                     url: '#',
-                    thumbnail: require(`@/assets/images/collection/collection-lg-01.jpg`),
+                    thumbnail: require(`@/assets/images/collection/collection-lg-01.png`),
                     smallThumbnails: [
-                        {image: require(`@/assets/images/collection/collection-sm-10.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-11.jpg`)},
-                        {image: require(`@/assets/images/collection/collection-sm-12.jpg`)}
+                        { image: require(`@/assets/images/collection/collection-sm-10.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-11.png`) },
+                        { image: require(`@/assets/images/collection/collection-sm-12.png`) }
                     ],
                     client: require(`@/assets/images/client/client-14.png`),
                     title: 'Thememove',

@@ -13,8 +13,8 @@
               data-sal="slide-up"
               data-sal-duration="800"
             >
-              Collectible items <br />
-              for your favorite game as <br />
+              Buy and sell your favourite <br />
+              games collectibles instantenously as <br />
               <span class="gradient-title">NFTs.</span>
             </h2>
             <p
@@ -23,9 +23,9 @@
               data-sal="slide-up"
               data-sal-duration="800"
             >
-              a non-interchangeable unit of data stored on a blockchain, a form
-              of digital ledger, that can be sold and traded. Types of NFT data
-              units.
+              GameLink allows you to start new games with a head start via our
+              on-chain ability to turn your in-game collectibles into NFTs that
+              can be bought or sold.
             </p>
             <div class="button-group">
               <router-link
@@ -168,7 +168,7 @@
                                                                 <a href="product-details.html"><span class="product-name large-product-title">Collect,Sell Your Specific NFT's</span></a>
                                                                 <span class="latest-bid">Highest bid 1/20</span>
                                                                 <div class="bid-react-area">
-                                                                    <div class="last-bid">0.244wETH</div>
+                                                                    <div class="last-bid">0.244SSC</div>
                                                                     <div class="react-area">
                                                                         <svg viewBox="0 0 17 16" fill="none" width="16" height="16"
                                                                              class="sc-bdnxRM sc-hKFxyN kBvkOu">
@@ -284,9 +284,9 @@ export default {
           }
         ],
         biddingAmount: '20',
-        productName: 'Collect,Sell Your Specific NFT\'s',
+        productName: 'Health Potion',
         latestBid: 'Highest bid 1/20',
-        lastBid: '0.244wETH',
+        lastBid: '0.244SSC',
         reacted: '322'
       }
     }

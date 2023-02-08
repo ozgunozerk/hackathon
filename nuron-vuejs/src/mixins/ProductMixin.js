@@ -30,7 +30,7 @@ export default {
                     biddingAmount: '9',
                     productName: 'Preatent',
                     latestBid: 'Highest bid 1/20',
-                    lastBid: '0.244wETH',
+                    lastBid: '0.244SSC',
                     reacted: '322',
                     categories: ['ethernity', 'demonics'],
                     collection: {
@@ -44,7 +44,7 @@ export default {
                     saleType: 'fixed-price',
                     price: {
                         amount: 0.244,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['newest'],
                     publishedAt: '20-JUN-2021 08:03:00',
@@ -80,7 +80,7 @@ export default {
                     biddingAmount: '10',
                     productName: 'Diamond Dog',
                     latestBid: 'Highest bid 5/11',
-                    lastBid: '0.244wETH',
+                    lastBid: '0.244SSC',
                     reacted: '420',
                     categories: ['ethernity', 'demonics'],
                     collection: {
@@ -94,7 +94,7 @@ export default {
                     saleType: 'timed-auction',
                     price: {
                         amount: 0.244,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['oldest'],
                     publishedAt: '21-JUN-2021 08:03:00',
@@ -130,7 +130,7 @@ export default {
                     biddingAmount: '10',
                     productName: 'OrBid6',
                     latestBid: 'Highest bid 2/31',
-                    lastBid: '0.218wETH',
+                    lastBid: '0.218SSC',
                     reacted: '12',
                     categories: ['demonics'],
                     collection: {
@@ -144,7 +144,7 @@ export default {
                     saleType: 'fixed-price',
                     price: {
                         amount: 0.218,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['popular-courses'],
                     publishedAt: '25-JAN-2022 10:55:00',
@@ -180,7 +180,7 @@ export default {
                     biddingAmount: '8',
                     productName: 'Morgan11',
                     latestBid: 'Highest bid 3/16',
-                    lastBid: '0.265wETH',
+                    lastBid: '0.265SSC',
                     reacted: '20',
                     categories: ['karazhan'],
                     collection: {
@@ -194,7 +194,7 @@ export default {
                     saleType: 'not-for-sale',
                     price: {
                         amount: 0.265,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['oldest'],
                     publishedAt: '23-JUN-2021 08:03:00',
@@ -230,7 +230,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'mAtal8',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.285wETH',
+                    lastBid: '0.285SSC',
                     reacted: '205',
                     categories: ['karazhan', 'magicValleys'],
                     collection: {
@@ -244,7 +244,7 @@ export default {
                     saleType: 'timed-auction',
                     price: {
                         amount: 0.285,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['popular-courses'],
                     publishedAt: '24-JUN-2021 08:03:00',
@@ -280,7 +280,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'Platonum',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.334wETH',
+                    lastBid: '0.334SSC',
                     reacted: '205',
                     categories: ['demonics'],
                     collection: {
@@ -294,7 +294,7 @@ export default {
                     saleType: 'not-for-sale',
                     price: {
                         amount: 0.334,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['newest'],
                     publishedAt: '24-JUN-2021 08:05:00',
@@ -330,7 +330,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'PlatOrgan',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.453wETH',
+                    lastBid: '0.453SSC',
                     reacted: '205',
                     categories: ['wrangler'],
                     collection: {
@@ -344,7 +344,7 @@ export default {
                     saleType: 'not-for-sale',
                     price: {
                         amount: 0.453,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['newest'],
                     publishedAt: '24-JAN-2022 09:05:00',
@@ -380,7 +380,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'Orgajis',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.892wETH',
+                    lastBid: '0.892SSC',
                     reacted: '205',
                     categories: ['ethernity', 'demonics'],
                     collection: {
@@ -394,7 +394,7 @@ export default {
                     saleType: 'not-for-sale',
                     price: {
                         amount: 0.892,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['oldest'],
                     publishedAt: '25-JAN-2022 09:55:00',
@@ -430,7 +430,7 @@ export default {
                     biddingAmount: '15',
                     productName: '#720',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.756wETH',
+                    lastBid: '0.756SSC',
                     reacted: '205',
                     categories: ['wrangler'],
                     collection: {
@@ -444,7 +444,7 @@ export default {
                     saleType: 'open-for-offers',
                     price: {
                         amount: 0.756,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['featured-this-month'],
                     publishedAt: '25-JAN-2022 07:55:00',
@@ -480,7 +480,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'Orthogon#720',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.566wETH',
+                    lastBid: '0.566SSC',
                     reacted: '205',
                     categories: ['karazhan'],
                     collection: {
@@ -494,7 +494,7 @@ export default {
                     saleType: 'fixed-price',
                     price: {
                         amount: 0.566,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['featured-this-month'],
                     publishedAt: '24-JAN-2022 07:55:00',
@@ -530,7 +530,7 @@ export default {
                     biddingAmount: '15',
                     productName: '#21 The Wonder',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.9wETH',
+                    lastBid: '0.9SSC',
                     reacted: '205',
                     categories: ['karazhan'],
                     collection: {
@@ -544,7 +544,7 @@ export default {
                     saleType: 'timed-auction',
                     price: {
                         amount: 0.9,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['oldest'],
                     publishedAt: '20-JUN-2021 08:03:00',
@@ -580,7 +580,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'Sun Afford',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.544wETH',
+                    lastBid: '0.544SSC',
                     reacted: '205',
                     categories: ['ethernity', 'demonics'],
                     collection: {
@@ -594,7 +594,7 @@ export default {
                     saleType: 'open-for-offers',
                     price: {
                         amount: 0.544,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['featured-this-month'],
                     publishedAt: '24-FEB-2022 07:55:00',
@@ -630,7 +630,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'Orthogon#721',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.544wETH',
+                    lastBid: '0.544SSC',
                     reacted: '205',
                     categories: ['wrangler'],
                     collection: {
@@ -644,7 +644,7 @@ export default {
                     saleType: 'open-for-offers',
                     price: {
                         amount: 0.544,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['featured-this-month'],
                     publishedAt: '24-FEB-2022 07:55:00',
@@ -680,7 +680,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'Sun Afford',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.544wETH',
+                    lastBid: '0.544SSC',
                     reacted: '205',
                     categories: ['demonics', 'ethernity'],
                     collection: {
@@ -694,7 +694,7 @@ export default {
                     saleType: 'open-for-offers',
                     price: {
                         amount: 0.544,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['featured-this-month'],
                     publishedAt: '24-FEB-2022 07:55:00',
@@ -730,7 +730,7 @@ export default {
                     biddingAmount: '15',
                     productName: 'cAtal7',
                     latestBid: 'Highest bid 6/50',
-                    lastBid: '0.544wETH',
+                    lastBid: '0.544SSC',
                     reacted: '205',
                     categories: ['chainless'],
                     collection: {
@@ -744,7 +744,7 @@ export default {
                     saleType: 'open-for-offers',
                     price: {
                         amount: 0.544,
-                        currency: 'wETH'
+                        currency: 'SSC'
                     },
                     sortBy: ['featured-this-month'],
                     publishedAt: '24-FEB-2022 07:55:00',

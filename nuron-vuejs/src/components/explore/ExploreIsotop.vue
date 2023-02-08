@@ -90,7 +90,7 @@ export default {
           biddingAmount: '9',
           productName: 'Preatent',
           latestBid: 'Highest bid 1/20',
-          lastBid: '0.244wETH',
+          lastBid: '0.244SSC',
           reacted: '322',
           category: 'cat--1 cat--3'
         },
@@ -117,7 +117,7 @@ export default {
           biddingAmount: '11',
           productName: 'Diamond Dog',
           latestBid: 'Highest bid 5/11',
-          lastBid: '0.892wETH',
+          lastBid: '0.892SSC',
           reacted: '420',
           category: 'cat-3 cat--4'
         },
@@ -144,7 +144,7 @@ export default {
           biddingAmount: '12',
           productName: 'OrBid6',
           latestBid: 'Highest bid 2/31',
-          lastBid: '0.2128wETH',
+          lastBid: '0.2128SSC',
           reacted: '12',
           category: 'cat--5 cat--6'
         },
@@ -174,7 +174,7 @@ export default {
           biddingAmount: '13',
           productName: 'Morgan11',
           latestBid: 'Highest bid 3/16',
-          lastBid: '0.265wETH',
+          lastBid: '0.265SSC',
           reacted: '20',
           category: 'cat--1 cat--2'
         },
@@ -201,7 +201,7 @@ export default {
           biddingAmount: '15',
           productName: 'mAtal8',
           latestBid: 'Highest bid 6/50',
-          lastBid: '0.244wETH',
+          lastBid: '0.244SSC',
           reacted: '205',
           category: 'cat--1 cat--2'
         },
@@ -228,7 +228,7 @@ export default {
           biddingAmount: '9',
           productName: 'Platonum',
           latestBid: 'Highest bid 1/10',
-          lastBid: '0.450wETH',
+          lastBid: '0.450SSC',
           reacted: '65',
           category: 'cat--1 cat--2'
         },
@@ -258,7 +258,7 @@ export default {
           biddingAmount: '14',
           productName: 'PlatOrgan',
           latestBid: 'Highest bid 2/22',
-          lastBid: '0.311wETH',
+          lastBid: '0.311SSC',
           reacted: '56',
           category: 'cat--5 cat--4'
         },
@@ -285,7 +285,7 @@ export default {
           biddingAmount: '14',
           productName: 'Orgajis',
           latestBid: 'Highest bid 2/10',
-          lastBid: '0.311wETH',
+          lastBid: '0.311SSC',
           reacted: '89',
           category: 'cat--5 cat--6'
         },
@@ -312,7 +312,7 @@ export default {
           biddingAmount: '12',
           productName: '#720',
           latestBid: 'Highest bid 1/1',
-          lastBid: '0.244wETH',
+          lastBid: '0.244SSC',
           reacted: '502',
           category: 'cat--1 cat--3'
         },
@@ -339,7 +339,7 @@ export default {
           biddingAmount: '5',
           productName: 'Orthogon#720',
           latestBid: 'Highest bid 1/1',
-          lastBid: '0.244wETH',
+          lastBid: '0.244SSC',
           reacted: '308',
           category: 'cat-3 cat--4'
         }

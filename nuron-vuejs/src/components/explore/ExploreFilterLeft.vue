@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row mb--40">
         <div class="col-12">
-          <h3 class="title">Find Your Non Replaceable Token</h3>
+          <h3 class="title">Find Your Favourite Collectibles</h3>
         </div>
       </div>
       <div class="row g-5">

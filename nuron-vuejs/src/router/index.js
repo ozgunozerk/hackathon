@@ -62,7 +62,7 @@ const routes = [
         name: 'HomePageOne',
         component: HomePageEleven,
         meta: {
-            title: 'Nuron - NFT Marketplace Template',
+            title: 'GameLink - NFT Marketplace for ProGamers',
         },
     },
     {
